@@ -1,0 +1,46 @@
+.card-title{
+     color: darkorange;
+}
+.card-img-top{
+   width: 100%;
+   height: 250px;
+}
+
+.card:hover {
+     transform: scale(1.05);
+     transition: transform 0.3s ease;
+   }
+   .card-container {
+     display: grid;
+     grid-gap: 1rem;
+   }
+   
+   @media (min-width: 992px) {
+     .card-container {
+       grid-template-columns: repeat(3, 1fr);
+     }
+   }
+   
+   @media (max-width: 991px) {
+     .card-container {
+       grid-template-columns: repeat(2, 1fr);
+     }
+   }
+   
+   @media (max-width: 576px) {
+     .card-container {
+       grid-template-columns: repeat(1, 1fr);
+     }
+   }
+   
+     
+
+.quote{
+     color: orange;
+     display: inline;
+}
+.cat{
+     color: orange;
+     margin-top: 50px;
+}
+

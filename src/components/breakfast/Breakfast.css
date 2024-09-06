@@ -1,0 +1,21 @@
+.info{
+    color: orange;
+}
+.img-info{
+    border-radius: 50%;
+}
+.fav{
+    background-color:orange;
+    float: right;
+    margin-bottom: 15px;
+    color: black;
+    padding: 5px;
+    border-color: orange;
+    border-radius: 10px;
+}
+.icon{
+    font-size: 20px;
+}
+.noPost{
+    color: goldenrod;
+}

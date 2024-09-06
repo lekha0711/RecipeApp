@@ -1,0 +1,23 @@
+.profile{
+    border-radius: 50%;
+}
+.recipesPostedByMe{
+    color: orange;
+}
+.description{
+    margin-top: 80px;
+}
+.lookBelow{
+    border-radius: 50%;
+}
+
+.addRecipeButton {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+ .favo{
+    max-width: 350px;
+    width: 100%;
+    height: 300px;
+ } 

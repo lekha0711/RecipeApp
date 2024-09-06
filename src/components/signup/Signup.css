@@ -1,0 +1,11 @@
+h1{
+    color: orange;
+}
+.orangeButton{
+    background-color: darkorange;
+    border-radius: 15px;
+    border: darkorange;
+}
+form{
+    border-radius: 12px;
+}
